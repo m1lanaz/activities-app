@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/+z4xshenD1VIeSlIEGCdJVnslLpe4fc52NPfD9SmEWOuY0iOo51TC7Lo/15+iouaM5OraOoppfnPMu05xXeEw==",
+  "dgSpecHash": "IrbJ4jTFaLlxxwsKbzS+NM7MzcLvLcezX4mm8SQH6ZiSh9UtDIHGpAfombgtvY4DNtP7T03a4Su0r25Mq+M/Vw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

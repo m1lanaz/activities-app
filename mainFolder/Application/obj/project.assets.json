@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Milana\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\obj\\",
+      "outputPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Milana\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -70,11 +70,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj"
+            "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj"
             },
-            "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\Persistence.csproj": {
-              "projectPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\Persistence.csproj"
+            "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\Persistence.csproj"
             }
           }
         }

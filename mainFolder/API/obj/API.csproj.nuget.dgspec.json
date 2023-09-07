@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\API.csproj": {}
+    "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\API.csproj": {
+    "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Milana\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\obj\\",
+        "outputPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Milana\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj": {
-                "projectPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj"
+              "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj": {
+    "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Milana\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Milana\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -96,11 +96,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj"
+              "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj"
               },
-              "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\Persistence.csproj": {
-                "projectPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\Persistence.csproj"
+              "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -134,14 +134,14 @@
         }
       }
     },
-    "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj": {
+    "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Milana\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Milana\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -187,14 +187,14 @@
         }
       }
     },
-    "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Milana\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Milana\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -209,8 +209,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj"
+              "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Domain\\Domain.csproj"
               }
             }
           }

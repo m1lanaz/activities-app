@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MqJMtBODGy7tUfQp0CHLPYRDAq3lotcRg+wj9eCLbuhc02eoz3p63eIxbQeu+prWLXVtOOMsznnHZy/peE0UZw==",
+  "dgSpecHash": "0kSIa0ROREl6Mz6YtbDL6kcjbsVNKMFV7dvMhGywc1+mnhtOevN4eTAqNlwDQJG5eF/ThDhwydE9+Y/k775pAw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Milana\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\Milana\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

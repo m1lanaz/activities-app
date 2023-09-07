@@ -527,11 +527,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Milana\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\obj\\",
+      "outputPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Milana\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -546,8 +546,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj": {
-              "projectPath": "c:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj"
+            "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Milana\\Documents\\Github\\activities-app\\mainFolder\\Application\\Application.csproj"
             }
           }
         }
