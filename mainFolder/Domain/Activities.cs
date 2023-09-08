@@ -1,6 +1,6 @@
 namespace Domain
 {
-    public class Activities
+    public class Activity
     {
         public Guid Id { get; set; } //needs to be called id so entity framework recognises this is Id
 
